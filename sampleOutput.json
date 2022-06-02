@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: PM holding talks with world leaders on further sanctions",
+            "description": "Boris Johnson is meeting the Canadian and Dutch PMs, as the UK's refugee policy comes under scrutiny.",
+            "url": "http://www.bbc.co.uk/news/uk-60642926",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80DB/production/_123578923_hi074401049.jpg",
+            "publishedAt": "2022-03-07T13:22:19.3440823Z",
+            "content": "Media caption, Boris Johnson says no European country had done more than the UK to settle vulnerable people since 2015\r\nBoris Johnson is holding talks with the Canadian and Dutch prime ministers in L… [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lord Barker resigns from Russian oligarch-linked firm EN+",
+            "description": "The Conservative peer steps down from EN+, which is majority-owned by Oleg Deripaska.",
+            "url": "http://www.bbc.co.uk/news/business-60645278",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F20F/production/_123576916_gettyimages-104717249.jpg",
+            "publishedAt": "2022-03-07T11:07:18.935597Z",
+            "content": "Image source, Getty Images\r\nImage caption, Lord Barker was a former government energy minister\r\nLord Barker has stepped down as chairman of a company which owns an aluminium giant founded by Russian … [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine: Angry Zelensky vows to punish Russian atrocities",
+            "description": "The Ukrainian president says the country will not forgive or forget those who murder its civilians.",
+            "url": "http://www.bbc.co.uk/news/world-europe-60638042",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA95/production/_123575955_976_hi074372763.jpg",
+            "publishedAt": "2022-03-07T09:52:23.4213904Z",
+            "content": "Media caption, Video shows people running to escape Russian shelling in Irpin, just outside of the capital Kyiv\r\nPresident Volodymyr Zelensky has said everyone who commits atrocities against Ukraine'… [+4726 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shane Warne: Australian cricket legend died from natural causes - police",
+            "description": "Thai police say there's no sign of foul play in the cricketer's death while on holiday on Koh Samui.",
+            "url": "http://www.bbc.co.uk/news/world-asia-60645939",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/108B7/production/_123576776_mediaitem123576775.jpg",
+            "publishedAt": "2022-03-07T09:37:20.6555823Z",
+            "content": "Image caption, Warne had been on holiday on Koh Samui when he died of a suspected heart attack\r\nAustralian cricket legend Shane Warne's death in Thailand was from natural causes, police have confirme… [+449 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine: India doctor stranded with a jaguar and panther",
+            "description": "Girikumar Patil, who also has a jaguar, says he will not leave Severodonetsk without his pets.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-60637980",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D134/production/_123565535_mediaitem123565532.jpg",
+            "publishedAt": "2022-03-07T05:07:21.6556241Z",
+            "content": "Image source, Girikumar Patil\r\nImage caption, Girikumar Patil bought a jaguar and a panther from a zoo 20 months ago\r\nFor more than a week, an Indian doctor in war-torn Ukraine has been holed up in a… [+3876 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine conflict: Oil price soars to highest level since 2008",
+            "description": "Consumers are feeling the impact of higher energy costs as fuel prices and household bills jump.",
+            "url": "http://www.bbc.co.uk/news/business-60642786",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13977/production/_123574208_gettyimages-1161679863.jpg",
+            "publishedAt": "2022-03-07T01:52:22.2023157Z",
+            "content": "Image source, Getty Images\r\nThe price of oil has soared to the highest level since 2008 after the US said it was discussing a potential embargo on Russian oil with its allies.\r\nBrent crude - the glob… [+2791 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: The TikToker spreading viral videos",
+            "description": "A Ukrainian 20-year-old has had tens of millions of views on videos she's shared of fighting there.",
+            "url": "http://www.bbc.co.uk/news/technology-60613331",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B6E/production/_123509793_unknown.jpg",
+            "publishedAt": "2022-03-07T00:37:25.5462763Z",
+            "content": "By James Clayton &amp; Jasmin DyerBBC News\r\nMedia caption, Ukraine war: The TikToker spreading viral videos\r\nMarta Vasyuta is a regular 20-year-old Ukrainian.\r\nAnd like many people of her age she's o… [+3487 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war is 'catastrophic for global food'",
+            "description": "One of the world's biggest fertiliser firms says the conflict could deliver a shock to food supplies.",
+            "url": "http://www.bbc.co.uk/news/business-60623941",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5F88/production/_123565442_gettyimages-1238855471.jpg",
+            "publishedAt": "2022-03-07T00:37:23.2482772Z",
+            "content": "By Emma SimpsonBusiness correspondent, BBC News\r\nImage source, Getty Images\r\nThe boss of one of the world's biggest fertiliser companies has said the war in Ukraine will deliver a shock to the global… [+4179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Russian gymnast wears pro-war symbol",
+            "description": "Russian gymnast Ivan Kuliak is being investigated after wearing a national war symbol on his leotard as he stood next to a Ukrainian rival on the podium in Qatar on Saturday.",
+            "url": "http://www.bbc.co.uk/sport/gymnastics/60641891",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/CA8B/production/_86515815_gymnastics.jpg",
+            "publishedAt": "2022-03-06T22:22:25.4682454Z",
+            "content": "Russian gymnast Ivan Kuliak is being investigated after wearing a national war symbol on his leotard as he stood next to a Ukrainian rival on the podium in Qatar on Saturday.\r\nThe International Gymna… [+839 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Shell defends 'difficult' decision to buy Russian crude oil",
+            "description": "The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had \"no alternative\".",
+            "url": "http://www.bbc.co.uk/news/business-60638255",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149E8/production/_123565448_gettyimages-1236600570.jpg",
+            "publishedAt": "2022-03-06T12:22:26.521528Z",
+            "content": "Image source, Getty Images\r\nShell has defended its decision to purchase Russian crude oil despite the invasion and bombardment of Ukraine.\r\nThe oil giant said in a statement that the decision to purc… [+3177 chars]"
+        }
+    ]
+}
